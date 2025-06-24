@@ -1,0 +1,6 @@
+Docker hub account : https://hub.docker.com/
+Install docker desktop: https://docs.docker.com/desktop/setup/install/windows-install/
+Install azure powershell: https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azps-14.1.0&viewFallbackFrom=azps-13.4.0&tabs=powershell&pivots=windows-psgallery
+Install azure cli: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest&pivots=msi
+Azure pricing calculator: 
+Install terraform : http://developer.hashicorp.com/terraform/install
