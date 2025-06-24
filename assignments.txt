@@ -1,0 +1,7 @@
+assignment 1
+
+1. create a virtual machine Linux in azure with azure cli
+2. explore ways to login to azure Linux vm 
+3. login to azure Linux vm  created above
+4. explore azure pricing tool
+ 
