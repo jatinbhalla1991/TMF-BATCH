@@ -1,7 +1,18 @@
-assignment 1
+assignment 1: 24-june-2025
 
 1. create a virtual machine Linux in azure with azure cli
 2. explore ways to login to azure Linux vm 
 3. login to azure Linux vm  created above
 4. explore azure pricing tool
  
+Assignment 2: 25-june 2025
+
+1. Different types of redundancy and usages
+Example: lrs,grs,zrs
+
+2. Types of data?
+find difference between structured, unstructured and semi structured
+look exmaples of the tools supported by azure to support different type of data
+
+3. Try to create storage account and upload files in blob storage
+4. Try to create sample data in sql server and db then write queries 
